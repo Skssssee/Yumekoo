@@ -1,11 +1,11 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
-    BOT_NAME = "Your_Bot_Name"
-    BOT_USERNAME = "Your_Bot_Username"
+    API_ID = 27479878
+    API_HASH = "05f8dc8265d4c5df6376dded1d71c0ff"
+    BOT_TOKEN = "8062117800:AAG5rzwYP4o_ANOq_sQN4HUZ0wR81TIGNDQ"
+    BOT_NAME = "Jasmine_management_bot"
+    BOT_USERNAME = "Jasmine_management_bot"
     BOT_ID = 0
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
@@ -19,13 +19,13 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
+    OWNER_ID = 7850114307
+    OWNER_USERNAME = "frogie34"
     SUPPORT_CHAT = -1002069412308
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    SUPPORT_CHAT_USERNAME = "jasminemusicgc"
+    SUPPORT_CHAT_LINK = "https://t.me/jasminemusicgc"
+    LOG_CHANNEL = -1002869550924
+    ERROR_LOG_CHANNEL = -1002869550924
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
