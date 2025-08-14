@@ -1,15 +1,15 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
-from Yumeko.database import warn_db
-from Yumeko import app
-from Yumeko.helper.user import resolve_user , RESTRICT
-from Yumeko.decorator.chatadmin import can_restrict_members
+from SONALI.database import warn_db
+from SONALI import app
+from SONALI.helper.user import resolve_user , RESTRICT
+from SONALI.decorator.chatadmin import can_restrict_members
 from pyrogram.enums import ParseMode
 from pyrogram.errors import ChatAdminRequired
 from config import config
 from pyrogram.enums import ChatMemberStatus
-from Yumeko.decorator.save import save 
-from Yumeko.decorator.errors import error
+from SONALI.decorator.save import save 
+from SONALI.decorator.errors import error
 
 
 MAX_WARNS = warn_db.MAX_WARNS
