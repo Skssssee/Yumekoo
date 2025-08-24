@@ -3,7 +3,7 @@ class config:
     #Client
     API_ID = 27479878
     API_HASH = "05f8dc8265d4c5df6376dded1d71c0ff"
-    BOT_TOKEN = "8062117800:AAG5rzwYP4o_ANOq_sQN4HUZ0wR81TIGNDQ"
+    BOT_TOKEN = " "
     BOT_NAME = "Jasmine_management_bot"
     BOT_USERNAME = "Jasmine_management_bot"
     BOT_ID = 0
@@ -24,8 +24,8 @@ class config:
     SUPPORT_CHAT = -1002069412308
     SUPPORT_CHAT_USERNAME = "jasminemusicgc"
     SUPPORT_CHAT_LINK = "https://t.me/jasminemusicgc"
-    LOG_CHANNEL = -1002869550924
-    ERROR_LOG_CHANNEL = -1002869550924
+    LOG_CHANNEL = -1002885722664
+    ERROR_LOG_CHANNEL = -1002731848210
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
@@ -36,8 +36,8 @@ class config:
     
     
     #Database
-    MONGODB_URI = "mongodb://localhost:27017" # Use Local Hosted Or Atlas !!
-    DATABASE_NAME = "Frieren"
+    MONGODB_URI = "mongodb+srv://sk5400552:shjjkytdcghhudd@cluster0g.kbllv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0g" # Use Local Hosted Or Atlas !!
+    DATABASE_NAME = "Cluster0g"
 
     #API
     ARQ_API_KEY = "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
